@@ -1,11 +1,11 @@
-# 🏥 MedLink AI | Smart Triage Portal
+# 🏥 CareSense AI | Smart Triage Portal
 
 A modern, futuristic healthcare management system with AI-powered triage, adaptive priority queuing, and smart appointment scheduling.
 
 ## ✨ Features
 
 ### Patient Dashboard
-- **Smart MedLink Assessment**: Comprehensive medical assessment form with AI-powered triage
+- **Smart CareSense Assessment**: Comprehensive medical assessment form with AI-powered triage
 - **Instant Risk Analysis**: Real-time risk level calculation (High/Medium/Low)
 - **Auto-Decision Panel**: Intelligent recommendations based on risk assessment
 - **Smart Appointment Scheduling**: Priority-based slot assignment
@@ -20,7 +20,7 @@ A modern, futuristic healthcare management system with AI-powered triage, adapti
 - **Queue Management**: Complete, cancel, or reschedule appointments
 - **Real-time Updates**: Automatic queue refresh with Supabase realtime
 
-### MedLink AI Engine
+### CareSense AI Engine
 - Symptom analysis with 20+ common conditions
 - Vital signs evaluation (BP, HR, Temp, O2)
 - Medical history consideration
@@ -42,8 +42,8 @@ A modern, futuristic healthcare management system with AI-powered triage, adapti
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/niranjan169/AI-TRIAGE_SYSTEM.git
-   cd AI-TRIAGE_SYSTEM
+   git clone https://github.com/niranjan169/CareSense-AI.git
+   cd CareSense-AI
    ```
 
 2. **Install dependencies**
